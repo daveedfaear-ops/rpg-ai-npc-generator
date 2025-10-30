@@ -8,7 +8,7 @@ As Game Masters (GMs) know, a lively RPG session often requires creating engagin
 
 ### Collaborative Development: Roles & Contributions
 
-This project was a collaborative effort between **David T. Fair (User/Learner)** and the **AI Portfolio Architect (Assistant/Instructor)**, demonstrating a real-world workflow in prompt engineering:
+This project was a collaborative effort between **David T. Fair (User/Learner)** and the **AI Portfolio Architect (Assistant/Instructor)** (Created in Geoogle AI Studio by David T. Fair), demonstrating a real-world workflow in prompt engineering:
 
 *   **David T. Fair's Contributions**:
     *   **Defined Core Requirements**: Established the project's purpose, target audience, desired output format (detailed NPC fields), and the creative "Persona" for the AI (e.g., "Gandalf-like GM assistant").
@@ -246,3 +246,4 @@ This robust NPC generator forms a strong foundation. Potential future enhancemen
 *   **Advanced Filtering**: Allowing GMs to specify more detailed constraints (e.g., specific age ranges, moral alignments, current emotional state).
 *   **Integrating Other Features**: Developing other "Key Features" of "RPG AI NPC Generator" (e.g., Dynamic Encounter Generation, Lore Expansion) using similar prompt engineering and Python integration techniques.
 *   **Bias Mitigation Documentation**: Delving deeper into prompt strategies to ensure diverse and non-stereotypical NPC generation.
+
